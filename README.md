@@ -14,16 +14,22 @@ This includes trendline and target line to help HR managers track progress towar
 Technologies Used:
 
 • Advance Excel 👨‍💻 
+
 • Tableau 📊
+
 • Statistics 📜
 
 
 STEPS OVERVIEW:
 
 -Data subset collected from online.
+
 -Understanding the Data.
+
 -Loading Libraries.
+
 -Data Cleaning & Finding Missing values.
+
 -Data Visualization.
 
 
@@ -31,12 +37,19 @@ DATA CLEANING
 
 
 -Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+
 -Remove Duplicates.
+
 -Change the formatting of necessary columns.
+
 -Spell Check.
+
 -Change Case - Lower/Upper/Proper.
+
 -Trim the unwanted spaces.
+
 -Remove null values if its not going to affect the result.
+
 -Find & Replace.
 
 
